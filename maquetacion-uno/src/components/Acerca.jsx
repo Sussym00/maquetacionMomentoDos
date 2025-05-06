@@ -9,7 +9,10 @@ export default function Acerca() {
                     <li>Cerrar Sesion</li>
                 </ul>
             </nav>
-            <h2>Acerca de</h2>
+            <h2>Acerca del club</h2>
+            <p>Somos un club comprometido con tu salud, el deporte y la comunidad.
+                Nuestros espacios y actividades estan hechas para que disfrutes al maximo.
+            </p>
         </section>
     );
 }

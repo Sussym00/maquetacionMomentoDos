@@ -9,7 +9,10 @@ export default function Home() {
                     <li>Cerrar Sesion</li>
                 </ul>
             </nav>
-            <h2>Home</h2>
+            <h2>Inicio Bienvenido al Club</h2>
+            <p>
+                Explora nuestras actividades, servicios y comunidad.
+            </p>
         </section>
     );
 }

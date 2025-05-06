@@ -9,7 +9,13 @@ export default function Servicios() {
                     <li>Cerrar Sesion</li>
                 </ul>
             </nav>
-            <h2>Servicios</h2>
+            <h2>Servicios para socios</h2>
+            <ul>
+                <li>Clases de Entrenamiento</li>
+                <li>Acceso a Gimnasio 24/7</li>
+                <li>Eventos Exclusivos</li>
+                <li>Asesorias Nutricionales</li>
+            </ul>
         </section>
     );
 }
